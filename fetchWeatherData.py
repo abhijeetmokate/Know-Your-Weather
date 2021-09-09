@@ -1,7 +1,7 @@
 from requests import *
 from weather import *
 
-__API = '6c974d0246a07438eecd704b695d6061'
+__API = 'a6c974d0246a07438eecd704b695d6061'
 
 
 def get_weather(city):
